@@ -1,4 +1,4 @@
 ---
-title: Github Pages - A day on Github Assignment.
+Github Pages - A day on Github Assignment.: Hello! Welcome :)
 ---
-Hello! Welcome :)
+
